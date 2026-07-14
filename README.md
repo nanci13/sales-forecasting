@@ -95,6 +95,6 @@ The dashboard utilizes Power BI's built-in forecasting capabilities to estimate 
 ---
 
 ## 👨‍💻 Author
-**Divya Sharma**
+**Nanci Rawat**
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
